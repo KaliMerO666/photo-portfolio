@@ -1,0 +1,8 @@
+/* fonseca-bold */
+@font-face {
+	font-family: Fonseca;
+	font-style: normal;
+	font-weight: 700;
+	src: local("Fonseca Bold"), local("FonsecaBold"), url(fonseca-bold.woff2) format("woff2");
+}
+
